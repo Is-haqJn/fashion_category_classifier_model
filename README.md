@@ -1,0 +1,1 @@
+# fashion_category_classifier_model
